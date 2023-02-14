@@ -2,7 +2,6 @@
 - 👀 I’m interested in scientific computing & data engineering & backend dev
 - 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on cool things
-- 📫 How to reach me ...
 
 <!---
 laridarolti/laridarolti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
