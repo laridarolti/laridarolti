@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @laridarolti
-- 👀 I’m interested in scientific computing & data engineering & backend dev
-- 🌱 I’m currently learning Kotlin
+- 👀 I’m interested in data engineering & backend dev & scientific computing
+- 🌱 I’m currently learning something new every day
 - 💞️ I’m looking to collaborate on cool things
 
 <!---
